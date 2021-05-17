@@ -14,3 +14,10 @@ YouTube video: https://www.youtube.com/watch?v=4yDrtFUbUzo
 * How to control client-side and server-side rendering
 
 ## Generate Type, hooks with graphql-code generator
+
+## Support
+[Buy me a Coffee](https://www.buymeacoffee.com/tomn)
+
+[Sign up to DigitalOcean](https://m.do.co/c/1b74cb8c56f4) I 💖 DigitalOcean
+
+[Subscribe on YouTube](https://www.youtube.com/channel/UClEEzwG7Tl3-8eY11Qytsog)
